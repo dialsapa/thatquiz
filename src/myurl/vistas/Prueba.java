@@ -1,4 +1,4 @@
-package myurl.main;
+package myurl.vistas;
 
 public class Prueba {
 
